@@ -68,12 +68,12 @@ export const singleProjectData = {
 			{
 				title: 'Tools & Technologies',
 				techs: [
-					'HTML',
-					'CSS',
-					'JavaScript',
-					'Vue.js',
-					'TailwindCSS',
-					'AdobeXD',
+					'Python',
+					'Django',
+					'ReactJS',
+					'Google Cloud',
+					'FastAPI',
+					'Docker',
 				],
 			},
 		],
@@ -112,7 +112,7 @@ export const singleProjectData = {
 				id: 2,
 				name: 'Instagram',
 				icon: <FiInstagram />,
-				url: 'https://instagram.com/realstoman',
+				url: 'https://instagram.com/danhamil',
 			},
 			{
 				id: 3,
